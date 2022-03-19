@@ -1,3 +1,19 @@
+
+# Tesla - Clone using ReactJs
+
+⚡ **Project Link** - ***https://w17b2.csb.app/*** <br>
+⚡ **Tech Link**  - ***https://kunalsonar007.github.io/Tesla-Website-Clone/***
+
+## Tech We Used
+
+- ReactJs
+- Firebase Hosting
+- Firebase Auth
+- Firebase Storage
+- React-Dom
+- React Redux
+- Stripe payment
+
 ## Landing Page
 
 ![image](https://user-images.githubusercontent.com/62868878/118962083-a16b8f80-b982-11eb-9bf3-3514a3e997f2.png)
@@ -90,4 +106,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# tesla-clone
+#### Hope you liked this project, dont forget to ⭐ the repo.
